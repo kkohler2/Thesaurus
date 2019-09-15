@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+apikey.txt
+.vs
+/ConsoleApp/bin
+/ConsoleApp/obj
+/ConsoleApp/Console.csproj.user
+/ConsoleApp/App.config.with.key
+/packages
+/packaging
+/WebSite/Bin
